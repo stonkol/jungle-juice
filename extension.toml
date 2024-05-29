@@ -4,4 +4,4 @@ schema_version = 1
 version = "0.0.1"
 authors = ["stonkol <@email>"]
 description = "Kiwi🥝 theme for Zed!"
-repository = "https://github.com/stonkol/zed"
+repository = "https://github.com/stonkol/zed-kiwi-theme"
