@@ -1,20 +1,21 @@
 # kiwi-theme
-theme for the Zed editor
+
+Theme for the Zed editor
 
 ## Theme flavours
 
 ### 1. Kiwi Juice
 
-The more boring minimalist version
+The boring minimalist version
 [insert schreenshoot]
 
-### 2. Kiwi Strawberry
+### 2. Kiwi Jalapeño
 
-The more naughty version
+The naughty version
 
 ### 3. Kiwi Latte
 
-The more creammy version
+The more creammy version, also available with Oatly (+50¢)
 
 ### 4. Kiwi Coffee
 
