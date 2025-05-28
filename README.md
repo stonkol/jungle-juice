@@ -1,4 +1,4 @@
-# Jungle Juice
+# Juice
 
 Theme for the Zed editor
 A collection of
